@@ -2,6 +2,7 @@ HTML Practice Portfolio: Faith Babs
 
 Welcome to my front-end practice portfolio! 👋  
 This repository contains simple HTML projects I’ve created as part of my journey to improve my web development skills.
+Here's a link to my portfolio: file:///Users/faith.babatunde/Downloads/Portfolio%20(1).html
 
 Each folder represents a small, standalone case, a basic website, a form, or a layout challenge built with just HTML. I'm using this space to experiment, learn, and track my progress publicly.
 
