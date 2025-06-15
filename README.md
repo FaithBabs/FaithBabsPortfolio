@@ -1,15 +1,15 @@
-HTML Practice Portfolio: Faith Babs
+## HTML Practice Portfolio: Faith Babs
 
 Welcome to my front-end practice portfolio! 👋  
 This repository contains simple HTML projects I’ve created as part of my journey to improve my web development skills.
-View My Live Portfolio: (https://faithbabs.github.io/Web-Development-Portfolio/)
+[View My Live Portfolio](https://faithbabs.github.io/Web-Development-Portfolio/)
 
 
-Each folder represents a small, standalone case, a basic website, a form, or a layout challenge built with just HTML. I'm using this space to experiment, learn, and track my progress publicly.
+#### Each folder represents a small, standalone case, a basic website, a form, or a layout challenge built with just HTML. I'm using this space to experiment, learn, and track my progress publicly.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Goals
+## Goals
 
 This portfolio will evolve as I improve. My main goals right now are:
 
@@ -21,7 +21,7 @@ This portfolio will evolve as I improve. My main goals right now are:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tools Used
+## Tools Used
 
 - HTML5
 - Visual Studio Code
@@ -29,7 +29,7 @@ This portfolio will evolve as I improve. My main goals right now are:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📌 About Me
+## About Me
 
 I’m a self-driven learner diving into front-end development & cyber-security.  
 Right now I’m focusing on the basics, building one small case at a time.
