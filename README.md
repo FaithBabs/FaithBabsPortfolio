@@ -1,4 +1,4 @@
-## HTML Practice Portfolio: Faith Babs
+## HTML Practice Portfolio
 
 Welcome to my front-end practice portfolio! 👋  
 This repository contains simple HTML projects I’ve created as part of my journey to improve my web development skills.
