@@ -2,6 +2,7 @@
 
 Welcome to my front-end practice portfolio! 👋  
 This repository contains simple HTML projects I’ve created as part of my journey to improve my web development skills.
+
 [View My Live Portfolio](https://faithbabs.github.io/Web-Development-Portfolio/)
 
 
